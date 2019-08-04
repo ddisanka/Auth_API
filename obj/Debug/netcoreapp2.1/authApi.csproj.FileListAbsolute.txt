@@ -1,0 +1,14 @@
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\bin\Debug\netcoreapp2.1\authApi.deps.json
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\bin\Debug\netcoreapp2.1\authApi.runtimeconfig.json
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\bin\Debug\netcoreapp2.1\authApi.runtimeconfig.dev.json
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\bin\Debug\netcoreapp2.1\authApi.dll
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\bin\Debug\netcoreapp2.1\authApi.pdb
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\obj\Debug\netcoreapp2.1\authApi.csprojAssemblyReference.cache
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\obj\Debug\netcoreapp2.1\authApi.csproj.CoreCompileInputs.cache
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\obj\Debug\netcoreapp2.1\authApi.RazorAssemblyInfo.cache
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\obj\Debug\netcoreapp2.1\authApi.RazorAssemblyInfo.cs
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\obj\Debug\netcoreapp2.1\authApi.AssemblyInfoInputs.cache
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\obj\Debug\netcoreapp2.1\authApi.AssemblyInfo.cs
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\obj\Debug\netcoreapp2.1\authApi.RazorTargetAssemblyInfo.cache
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\obj\Debug\netcoreapp2.1\authApi.dll
+C:\Users\Nibanu\Desktop\My_Auth_Api\authApi\obj\Debug\netcoreapp2.1\authApi.pdb
